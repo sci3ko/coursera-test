@@ -1,0 +1,11 @@
+#header {
+    color: rgba(4, 185, 95, 0.89);
+}
+
+.main-title {
+    font-weight: bold;
+    font-size: 15pt;
+    color: #b65;
+    background-color: rgb(39, 190, 19);
+    text-align: center;
+}
